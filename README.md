@@ -1,3 +1,3 @@
-# seng438-a1
+# seng438-a01
 
-Read [the assignment 01 guideline](seng438-a1.md) 
+Review [the assignment 01 guideline](seng438-a1.md) 
